@@ -1,4 +1,4 @@
-
+/* header */
 .header{
     width: 100%;
     height: 110px;
@@ -12,9 +12,13 @@
     width: 200px;
     height: auto;
 }
+/* /header */
 
-p{
+/* Author Section */
+
+.desc{
     margin: 0%;
+    font-size: smaller;
 }
 
 .greytext{
@@ -26,3 +30,27 @@ a{
     text-decoration: none;
     color: #20A9E5;
 }
+
+/* /Author Section */
+
+/* Article Section */
+
+.large-td{
+    width: 60%;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.theadcolor{
+    background-color: #20A9E5;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.trcolor{
+    background-color: #B1E5F2;
+}
+/* /Article Section */
