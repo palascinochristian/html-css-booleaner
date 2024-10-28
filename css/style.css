@@ -12,3 +12,17 @@
     width: 200px;
     height: auto;
 }
+
+p{
+    margin: 0%;
+}
+
+.greytext{
+    color:#808080;
+    margin: 0%;
+}
+
+a{
+    text-decoration: none;
+    color: #20A9E5;
+}
